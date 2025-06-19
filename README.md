@@ -8,7 +8,7 @@ Examples:
 
 ![objp_zsum_crop_08bit_iter0500](https://github.com/user-attachments/assets/4b053a66-fe81-4402-aefc-c6961afd52cf)
 
-2. Standard SrTiO3 sample from ThermoFisher engineer, acquired at Centre of Electron Microscopy, Fuzhou University and reconstructed by fold_slice.
+2. Standard SrTiO3 sample from ThermoFisher engineer, acquired at Centre of Electron Microscopy, Fuzhou University and reconstructed by fold_slice and ptyrad.
 
 ![obj_phase_roi_sum_Niter150](https://github.com/user-attachments/assets/c9822aed-1d9d-44bb-b06a-472ff2b69d6a)
-
+![ptyrad_STO](https://github.com/user-attachments/assets/dcb65db2-2d5d-4aa2-8fb7-215d18c89c4f)

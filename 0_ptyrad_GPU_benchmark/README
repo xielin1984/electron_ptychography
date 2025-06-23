@@ -1,3 +1,1 @@
-The experiment was performed on a ThermoFisher Spectra300 electron microscope with EMPAD at Fuzhou University.
-The convergence angle is 26.5 mrad with an overfocus of ~20 nm, a camera length of 460 mm and a reciprocal space sampling size of 0.643 mrad/pixel. The scanning step size is 0.383 Angstrom.
-The reciprocal space sampling points are padded from 128*128 to 196*196 during the reconstruction, while the real space sampling points are 128*128.
+The experiment was performed on a ThermoFisher Spectra300 electron microscope with EMPAD at Fuzhou University. The convergence angle is 26.5 mrad with an overfocus of ~20 nm, a camera length of 460 mm and a reciprocal space sampling size of 0.643 mrad/pixel. The scanning step size is 0.383 Angstrom. The reciprocal space sampling points are padded from 128*128 to 196*196 during the reconstruction, while the real space sampling points are 128*128.

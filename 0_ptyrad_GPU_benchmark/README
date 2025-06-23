@@ -1,4 +1,4 @@
 The experiment was performed on a ThermoFisher Spectra300 electron microscope with EMPAD at Fuzhou University. The convergence angle is 26.5 mrad with an overfocus of ~20 nm, a camera length of 460 mm and a reciprocal space sampling size of 0.643 mrad/pixel. The scanning step size is 0.383 Angstrom. The reciprocal space sampling points are padded from 128*128 to 196*196 during the reconstruction, while the real space sampling points are 128*128.
 
 In order to reproduce similar results as fold_slice, we used kz_filter instead of rz_filter. All reconstructions were performed on single GPU card.
-![image](https://raw.githubusercontent.com/xielin1984/electron_ptychography/refs/heads/main/0_ptyrad_GPU_benchmark/ptyrad_benchmark.png)
+![image](ptyrad_benchmark.png)
